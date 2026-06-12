@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm Jeff.  I write software, most of it locked away inside companies' internal source repositories, forever hidden to the world.  Probably for the best!
+I'm Jeff. I write software for a living, most of it locked away inside companies' internal repos, forever hidden from the world. Probably for the best!
 
-My public Github is a place for learning and passion projects.  Most of my projects at the moment involve building modern, cross-platform software that works with the old Hotline file transfer/chat/BBS-like protocol from the 90's.  It's fun! 
+My public GitHub is where I keep the learning experiments and passion projects. Lately most of those revolve around building modern, cross-platform tooling for Hotline — the file-sharing, chat, and BBS-style protocol that was a small corner of the late-'90s internet, but still around today! It's a fun problem to work on.
 
-If you'd like to get in touch, drop me an email at my throwaway alias: inite-voodoo5z@icloud.com or find me around Hotline on the Mobius Strip server (hotline://mobius.trtphotl.com).
+👉 If you want a place to start, take a look at my pinned repos below.
+
+To get in touch, drop me a line at my throwaway alias: inite-voodoo5z@icloud.com — or find me around Hotline on the Mobius Strip server (hotline://mobius.trtphotl.com).
 
 Cheers.
